@@ -1,0 +1,22 @@
+[
+    {
+       "id": 1,
+       "name": "Angelina Jolie",
+       "birth_date": "1975-06-04"
+    },
+    {
+       "id": 2,
+       "name": "Charlize Theron",
+       "birth_date": "1975-08-07"
+    },
+    {
+       "id": 3,
+       "name": "Nicole Kidman",
+       "birth_date": "1967-06-20"
+    },
+    {
+       "id": 4,
+       "name": "Scarlett Johansson",
+       "birth_date": "1984-11-22"
+    }
+ ]
